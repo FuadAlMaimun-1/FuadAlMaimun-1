@@ -2,117 +2,116 @@
   <img src="https://github.com/user-attachments/assets/48c380cf-6904-4446-abb9-9469f36508a1" alt="Fuad Al Maimun Banner" width="100%" />
 </p>
 
+<h1 align="center">
+  👋 Hi, I'm <a href="https://github.com/FuadAlMaimun-1"><b>Fuad Al Maimun</b></a>
+</h1>
 
-# 👋 Hi, I'm Fuad Al Maimun
+<p align="center">
+  <a href="https://github.com/FuadAlMaimun-1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Full+Stack+Engineer;MERN+Stack+%26+Next.js+Developer;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
-### Full Stack Engineer 
+<p align="center">
+  <b>Full Stack Engineer</b> focused on building modern, scalable, and high-performance web applications.
+  <br />
+  I turn ideas into seamless digital products — from <i>responsive UIs</i> to <i>robust RESTful APIs</i> and <i>secure databases</i>.
+</p>
 
-I'm a Full Stack Engineer focused on building modern, scalable, and user-friendly web applications.
-
-I enjoy turning ideas into real-world products — from designing responsive interfaces to building APIs, handling databases, authentication, and deploying complete applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-007ACC?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Node.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Engineer focused on modern web technologies
-- ⚛️ Building frontend applications with React & Next.js
-- 🟦 Working with JavaScript & TypeScript
-- 🖥️ Building backend applications with Node.js & Express.js
-- 🗄️ Working with MongoDB and SQL databases
-- 🔐 Interested in authentication, authorization & secure APIs
-- 🌐 Building RESTful APIs and full-stack applications
-- 🧩 Love creating reusable and maintainable components
-- 🐛 Enjoy debugging and solving real-world problems
-- 🚀 Interested in scalable architecture and clean code
-- 📚 Always learning and improving my engineering skills
+- 💻 **Full Stack Engineer** specializing in modern, edge-ready web technologies.
+- ⚛️ Crafting interactive & responsive frontends with **React.js** & **Next.js**.
+- 🟦 Writing clean, maintainable code using **JavaScript (ES6+)** & **TypeScript**.
+- 🖥️ Architecting backend services & REST APIs with **Node.js** & **Express.js**.
+- 🗄️ Database design and querying with **MongoDB**, **PostgreSQL**, and **MySQL**.
+- 🔐 Implementing secure **Authentication (JWT / NextAuth)** & authorization systems.
+- 🧩 Passionate about **reusable components**, modular design, and clean architecture.
+- 🐛 Enthusiastic about **debugging**, performance optimization, and problem-solving.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  </a>
 </p>
 
-### Backend
-
+### ⚙️ Backend Development & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+  </a>
 </p>
 
-### Database
-
+### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,npm,postman" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,npm" />
+  </a>
 </p>
 
 ---
 
 ## 💡 What I Can Build
 
-- 🌐 Modern responsive websites
-- ⚛️ React & Next.js applications
-- 🛒 E-commerce platforms
-- 🔐 Authentication systems
-- 🔌 RESTful APIs
-- 🗄️ Database-driven applications
-- 📊 Admin dashboards
-- 💳 Payment integrations
-- 📱 Responsive UI/UX
-- 🚀 Full-stack web applications
+| Application Type | Features & Capabilities |
+| :--- | :--- |
+| **🌐 Full-Stack Web Apps** | End-to-end scalable web applications with Next.js & MERN |
+| **🛒 E-commerce Platforms** | Product filtering, cart, checkout & payment gateway integrations |
+| **🔐 Auth Systems** | Secure user login, session management & OAuth integration |
+| **📊 Dashboards & Admin** | Interactive analytics, charts, data grids & CRUD operations |
+| **🔌 RESTful APIs** | Robust API endpoints with proper validation & error handling |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 Urban Vibe — E-commerce Application
-
-A modern e-commerce application with product browsing, cart management, checkout, and order confirmation.
-
-**Tech:** React • TypeScript • Tailwind CSS • React Router
-
----
-
-### 🧰 Dev Stack Builder
-
-An interactive application where users can explore technologies and build their own development stack.
-
-**Tech:** React • TypeScript • Tailwind CSS
+### 🛒 **Urban Vibe** — *E-commerce Application*
+> A modern e-commerce application featuring seamless product browsing, dynamic cart management, and order checkout.
+>
+> **Tech Stack:** `React` • `TypeScript` • `Tailwind CSS` • `React Router`
 
 ---
 
-### 💼 Personal Portfolio
-
-A personal developer portfolio showcasing my skills, projects, experience, and contact information.
-
-**Tech:** Next.js • TypeScript • Tailwind CSS
+### 🧰 **Dev Stack Builder** — *Interactive Developer Tool*
+> An interactive platform where developers can explore modern web technologies and customize their own development stack.
+>
+> **Tech Stack:** `React` • `TypeScript` • `Tailwind CSS`
 
 ---
 
-## 📈 Currently Learning
+### 💼 **Personal Portfolio** — *Developer Showcase*
+> A sleek personal developer portfolio highlighting technical skills, projects, work experience, and contact channels.
+>
+> **Tech Stack:** `Next.js` • `TypeScript` • `Tailwind CSS`
+
+---
+
+<details>
+<summary><b>📈 Learning Roadmap & System Architecture (Click to expand)</b></summary>
+
+<br />
 
 ```text
-Next.js
+Next.js (App Router & SSR)
    ↓
-Node.js
+Node.js & Express Architecture
    ↓
-Express.js
+MongoDB & PostgreSQL Database Design
    ↓
-MongoDB / PostgreSQL
+Authentication & Role-Based Access Control
    ↓
-Authentication & Authorization
+RESTful & GraphQL API Design
    ↓
-REST APIs
-   ↓
-Full Stack Projects
-   ↓
-System Design
+Production Deployment & System Design
