@@ -25,14 +25,31 @@
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:fuadalmaimun10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/fuadalmaimun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🚀 About Me
 
-- 💻 **Full Stack Engineer** specializing in modern, edge-ready web technologies.
+- 💻 **Full Stack Engineer** specializing in modern web technologies.
 - ⚛️ Crafting interactive & responsive frontends with **React.js** & **Next.js**.
 - 🟦 Writing clean, maintainable code using **JavaScript (ES6+)** & **TypeScript**.
 - 🖥️ Architecting backend services & REST APIs with **Node.js** & **Express.js**.
 - 🗄️ Database design and querying with **MongoDB**, **PostgreSQL**, and **MySQL**.
 - 🔐 Implementing secure **Authentication (JWT / NextAuth)** & authorization systems.
+- 🚀 **Currently Exploring:** Advanced Next.js App Router, Server Actions, & Performance Optimization.
 - 🧩 Passionate about **reusable components**, modular design, and clean architecture.
 - 🐛 Enthusiastic about **debugging**, performance optimization, and problem-solving.
 
