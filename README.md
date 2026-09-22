@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48c380cf-6904-4446-abb9-9469f36508a1" alt="Fuad Al Maimun Banner" width="100%" />
+</p>
+
+
 # 👋 Hi, I'm Fuad Al Maimun
 
 ### Full Stack Engineer 
