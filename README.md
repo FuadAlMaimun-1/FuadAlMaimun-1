@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48c380cf-6904-4446-abb9-9469f36508a1" alt="Fuad Al Maimun Banner" width="100%" />
+  <img 
+    src="https://github.com/user-attachments/assets/48c380cf-6904-4446-abb9-9469f36508a1" 
+    alt="Fuad Al Maimun Banner" 
+    width="100%" 
+  />
 </p>
 
 <h1 align="center">
@@ -8,14 +12,18 @@
 
 <p align="center">
   <a href="https://github.com/FuadAlMaimun-1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Full+Stack+Engineer;MERN+Stack+%26+Next.js+Developer;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Full+Stack+Engineer;MERN+Stack+%26+Next.js+Developer;Problem+Solver+%26+Continuous+Learner" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
 
 <p align="center">
   <b>Full Stack Engineer</b> focused on building modern, scalable, and high-performance web applications.
   <br />
-  I turn ideas into seamless digital products — from <i>responsive UIs</i> to <i>robust RESTful APIs</i> and <i>secure databases</i>.
+  I turn ideas into seamless digital products — from <i>responsive UIs</i> to
+  <i>robust RESTful APIs</i> and <i>secure databases</i>.
 </p>
 
 <p align="center">
@@ -25,7 +33,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:fuadalmaimun10@gmail.com">
@@ -43,98 +51,112 @@
 
 ## 🚀 About Me
 
-- 💻 **Full Stack Engineer** specializing in modern web technologies.
-- ⚛️ Crafting interactive & responsive frontends with **React.js** & **Next.js**.
-- 🟦 Writing clean, maintainable code using **JavaScript (ES6+)** & **TypeScript**.
-- 🖥️ Architecting backend services & REST APIs with **Node.js** & **Express.js**.
-- 🗄️ Database design and querying with **MongoDB**, **PostgreSQL**, and **MySQL**.
-- 🔐 Implementing secure **Authentication (JWT / NextAuth)** & authorization systems.
-- 🚀 **Currently Exploring:** Advanced Next.js App Router, Server Actions, & Performance Optimization.
-- 🧩 Passionate about **reusable components**, modular design, and clean architecture.
-- 🐛 Enthusiastic about **debugging**, performance optimization, and problem-solving.
+* 💻 **Full Stack Engineer** specializing in modern web technologies.
+* ⚛️ Building interactive and responsive interfaces with **React.js** & **Next.js**.
+* 🟦 Writing clean and maintainable code with **JavaScript (ES6+)** & **TypeScript**.
+* 🖥️ Building backend services and REST APIs with **Node.js** & **Express.js**.
+* 🗄️ Working with **MongoDB**, **PostgreSQL**, and **MySQL**.
+* 🔐 Implementing authentication, authorization, and secure session management.
+* 🚀 **Currently Exploring:** Advanced Next.js App Router, Server Actions & performance optimization.
+* 🧩 Passionate about reusable components, modular architecture, and clean code.
+* 🐛 Enjoy debugging, optimization, and solving real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
+### 🎨 Frontend
+
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend Development & Databases
+### ⚙️ Backend & Databases
+
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
 </p>
 
 ### 🧰 Tools & Platforms
+
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,npm" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,npm" />
 </p>
 
 ---
 
 ## 💡 What I Can Build
 
-| Application Type | Features & Capabilities |
-| :--- | :--- |
-| **🌐 Full-Stack Web Apps** | End-to-end scalable web applications with Next.js & MERN |
-| **🛒 E-commerce Platforms** | Product filtering, cart, checkout & payment gateway integrations |
-| **🔐 Auth Systems** | Secure user login, session management & OAuth integration |
-| **📊 Dashboards & Admin** | Interactive analytics, charts, data grids & CRUD operations |
-| **🔌 RESTful APIs** | Robust API endpoints with proper validation & error handling |
+| Application Type                 | Features & Capabilities                                |
+| :------------------------------- | :----------------------------------------------------- |
+| 🌐 **Full-Stack Web Apps**       | Scalable applications with Next.js & MERN              |
+| 🛒 **E-commerce Platforms**      | Products, filtering, cart, checkout & payments         |
+| 🔐 **Authentication Systems**    | Login, sessions, OAuth & authorization                 |
+| 📊 **Dashboards & Admin Panels** | Analytics, charts, CRUD & data management              |
+| 🔌 **RESTful APIs**              | Validation, error handling & scalable API architecture |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 **Urban Vibe** — *E-commerce Application*
-> A modern e-commerce application featuring seamless product browsing, dynamic cart management, and order checkout.
->
-> **Tech Stack:** `React` • `TypeScript` • `Tailwind CSS` • `React Router`
+### 🛒 Urban Vibe — E-commerce Application
+
+> A modern e-commerce application featuring product browsing, dynamic cart management, and checkout functionality.
+
+**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `React Router`
 
 ---
 
-### 🧰 **Dev Stack Builder** — *Interactive Developer Tool*
+### 🧰 Dev Stack Builder — Developer Tool
+
 > An interactive platform where developers can explore modern web technologies and customize their own development stack.
->
-> **Tech Stack:** `React` • `TypeScript` • `Tailwind CSS`
+
+**Tech Stack:** `React` `TypeScript` `Tailwind CSS`
 
 ---
 
-### 💼 **Personal Portfolio** — *Developer Showcase*
-> A sleek personal developer portfolio highlighting technical skills, projects, work experience, and contact channels.
->
-> **Tech Stack:** `Next.js` • `TypeScript` • `Tailwind CSS`
+### 💼 Personal Portfolio — Developer Showcase
 
----
+> A modern developer portfolio showcasing technical skills, projects, experience, and contact information.
 
-<details>
-<summary><b>📈 Learning Roadmap & System Architecture (Click to expand)</b></summary>
-
-<br />
+**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS`
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuadAlMaimun-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=FuadAlMaimun-1&theme=tokyonight&hide_border=true" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=FuadAlMaimun-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=FuadAlMaimun-1&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuadAlMaimun-1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuadAlMaimun-1&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
+
+
+## 🎯 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-Advanced-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-Development-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
+  <b>Thanks for visiting my profile! ⭐</b>
+  <br />
+  <i>Let's build something amazing together.</i>
 </p>
