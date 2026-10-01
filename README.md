@@ -120,15 +120,21 @@
 
 <br />
 
-```text
-Next.js (App Router & SSR)
-   ↓
-Node.js & Express Architecture
-   ↓
-MongoDB & PostgreSQL Database Design
-   ↓
-Authentication & Role-Based Access Control
-   ↓
-RESTful & GraphQL API Design
-   ↓
-Production Deployment & System Design
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FuadAlMaimun-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=FuadAlMaimun-1&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuadAlMaimun-1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>
