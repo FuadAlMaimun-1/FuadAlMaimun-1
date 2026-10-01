@@ -1,9 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/48c380cf-6904-4446-abb9-9469f36508a1" 
-    alt="Fuad Al Maimun Banner" 
-    width="100%" 
-  />
+   <img width="1084" height="411" alt="banner" src="https://github.com/user-attachments/assets/f882cb9f-08ee-4c81-96a3-69ac84445784" />
 </p>
 
 <h1 align="center">
@@ -36,7 +33,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:fuadalmaimun10@gmail.com">
+  <a href="mailto:fuadmaymun0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fuad-al-maimun-97ba42399" target="_blank">
