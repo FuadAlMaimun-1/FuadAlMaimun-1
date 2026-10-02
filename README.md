@@ -119,24 +119,23 @@
 **Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS`
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
- <img 
-  src="https://github-readme-stats.vercel.app/api?username=FuadAlMaimun-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" 
-  height="180"
-/>
-  <img 
-    src="https://streak-stats.demolab.com?user=FuadAlMaimun-1&theme=tokyonight&hide_border=true" 
-    height="180"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FuadAlMaimun-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=FuadAlMaimun-1&theme=tokyonight&hide_border=true"
+    width="49%"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuadAlMaimun-1&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuadAlMaimun-1&layout=compact&theme=tokyonight&hide_border=true"
+    width="49%"
   />
 </p>
 
